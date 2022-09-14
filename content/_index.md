@@ -3,7 +3,7 @@ title: "Grow Geeks"
 subtitle: "Fruitful experiments in friendly, frugal gardening"
 description: "A practical guide to growing beautiful, bountiful gardens that don't cost the earth. Epicurian oases that sustain and serve you, sensorary spaces of learning and delight for young and old alike. "
 images:
-  - img/revoir.jpg
+  - img/elderberry.jpeg
 image_left: true
 text_align_left: false
 show_social_links: true # specify social accounts in site config
